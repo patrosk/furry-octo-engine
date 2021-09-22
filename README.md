@@ -5,5 +5,7 @@ Testprojekt GitHub-101
 
 ## My furry octo
 
+<img src="https://media.giphy.com/media/I3FV47ePeP28w/giphy.gif?cid=ecf05e4764bts3ay8b77pdhqlhdaaqkmmmrzikyk10bt6c0f&rid=giphy.gif&ct=g" width= 70% >
+
 Lorem ipsum `dolor` sit amet, consectetur adipiscing elit. Ut ac posuere ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus ...
 
